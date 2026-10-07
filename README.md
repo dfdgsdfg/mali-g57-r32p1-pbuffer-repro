@@ -6,6 +6,7 @@ pbuffer graphics/RssFile growth. Flush-only trials were killed after about
 and immediately deleting the sync completed 600 seconds with zero grid client
 polling or retained handles. Four fence policies completed the matched experiment.
 
+- [Arm Community thread](https://community.arm.com/forums/f/mobile-graphics-and-gaming-forum/57880/mali-g57-mc2-r32p1-pbuffer-graphics-memory-growth-prevented-by-an-immediately-deleted-fence) · [published report text](ARM-REPORT.md)
 - [Report and questions for Arm](REPORT.md)
 - [Curated results and source/APK hashes](measurement-summary.json)
 - [GPU accounting figure](2026-10-07-gpu-accounting.png)
