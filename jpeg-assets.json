@@ -1,0 +1,33 @@
+{
+  "repository": "https://github.com/vishnunew/flutter-mali-gles-freeze-repro",
+  "revision": "f9694ed6401f23e4605b72ae78b12b912d27d70b",
+  "original_directory": "assets/images",
+  "image_count": 24,
+  "combined_sha256": "89bbfc2f9c3b2462bd6aac3aee2bad48596db5665b93ffb0a4ce5908f14f5a44",
+  "files": {
+    "img_00.jpg": "ce8b534d1ebb48938212c6772e66b9e362d5d0bd6e0d8e2d2f329aca1d095001",
+    "img_01.jpg": "bedade69d836e6f77b3b9c5727999108c7102710e5c3b58659b69b44cfdeff88",
+    "img_02.jpg": "aa707dfa676340b544c47c22511a430457666216d015fd1007689dfabb0f2aac",
+    "img_03.jpg": "1b7cbbfca003d63d16d5a32ee37c816a681ca93fac224363889a7c8cf414fe2f",
+    "img_04.jpg": "81b0038e066fadd760dc5e37b07d15dd3722b23076f7599f8f80e21480a6c170",
+    "img_05.jpg": "4c532d51eaa0db5bf940cfd940ddec12dff16f9d958d5be8db291a573c524aa1",
+    "img_06.jpg": "21803ac64ad934183cddd8412ab78adf518d20862b12cc02a45b8a5195aea10a",
+    "img_07.jpg": "b2f7cac5c8187d140165d9ab7c54d7e216b2d6b05ffbab3075beff6314c6414c",
+    "img_08.jpg": "6bc227dc3d5cec49e935cfd7d1e0e9e999e1897617b7a1807824ab2d88266a21",
+    "img_09.jpg": "482a61b66f05fbb33d63cd6380c71b60bcbe1d547bbdbd49a2a4be720cf45f54",
+    "img_10.jpg": "bcf97e5f0da270cdcbd99d72e86853097224454c7d9a487abb6395b53f3160ae",
+    "img_11.jpg": "2858012aae874a9b01c41864a0c259d94b881f79aea6f52b846efe99fa630ef9",
+    "img_12.jpg": "c85aa35bf7696c9061704b0c9eeef05e5c898f3e9d96fc60797de12af8b13614",
+    "img_13.jpg": "e1dc50f50fe6bab7b4b69b3a9d90856f83a112a4cce363b9b3aa2909d0978a15",
+    "img_14.jpg": "172969baa723b1482f857585271da6376f028c744103e12f2aef9d525f4727c8",
+    "img_15.jpg": "4355c0d471f5a50f27eaba238f93862e9dc4128bde6af7a60460aa14c5ec8802",
+    "img_16.jpg": "8b1d0b91bb5c307a6479b942b8c2b42f71a0ee49c47caedfb734df23b87f5ec5",
+    "img_17.jpg": "7dd8842f95c5e9f712fc9646f88e88a4febf56b00581fee9eda3b3b647b5e596",
+    "img_18.jpg": "be5fb596c86205b4d2b20a6e1d7b86481b60f67567e3cbe157d4335da57738cc",
+    "img_19.jpg": "829870ac2c1e1af41e59257b9dbec56a81f965ae26d67bf4c6a3901ca10a430d",
+    "img_20.jpg": "6b0a774181e900e27fe8efc1706bad980556a3543240d1da9ecb5bd09c30789d",
+    "img_21.jpg": "35cf52e50990e9fbec82d445bc6bcd9427786ea3c509323d9dcb63d9d1b6dc56",
+    "img_22.jpg": "92ec0e51926526034d040f30fe047731f620256d9247770e78603458e1cd3e63",
+    "img_23.jpg": "04c80222a9d54db8ff07d04b2a3282adea4dfbfd317659d72343801a427a836a"
+  }
+}
